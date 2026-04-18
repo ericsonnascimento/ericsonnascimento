@@ -10,7 +10,7 @@ Atualmente estudando Engenharia de Software e desenvolvendo projetos práticos c
 
 ### 🔹 Backend
 
-**📌 MONAN – API Node.js**
+**📌 MONAN – API Node.js**  
 Projeto voltado ao diagnóstico de crianças através do auxílio da IA. O Médico recebe o exame EEG via SUS, submete a análise da IA e recebe o diagnóstico.  
 https://github.com/ericsonnascimento/projeto_integrador_MONAN  
 
@@ -21,7 +21,7 @@ https://github.com/ericsonnascimento/projeto_integrador_MONAN
 - Documentação técnica (DER, diagramas e requisitos)
 - Metodologia ágil (Scrum)
 
-**📌 Workout API – FastAPI**
+**📌 Workout API – FastAPI**  
 Projeto acadêmico de uma API que entrega funcionalidade voltada a academia.  
 https://github.com/ericsonnascimento/projeto_fastapi_workout_api  
 
@@ -31,7 +31,7 @@ https://github.com/ericsonnascimento/projeto_fastapi_workout_api
 - Containerização com Docker
 - Versionamento com Git
 
-**📌 Sistema Web com Django**
+**📌 Sistema Web com Django**  
 Projeto Recibo em Python | Django | SQLite | Dotenv | Pandas | Plotly: Com funcionalidades de: CRUD cliente, persistencia em banco de dados, relatório demostrativo e dashboard.  
 https://github.com/ericsonnascimento/projeto_django_recibo_grupocyber  
 
